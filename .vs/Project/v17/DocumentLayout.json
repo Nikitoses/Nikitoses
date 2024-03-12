@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR_2\\Task_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C2AC15-BA30-4804-B17B-37395E0A08DC}|PR_2\\ConsoleApp1\\ConsoleApp1.csproj|e:\\project\\pr_2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C2AC15-BA30-4804-B17B-37395E0A08DC}|PR_2\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:pr_2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0A34E5-22F3-4F0F-BF52-4017F7DE94EA}|PR_2\\Task 4\\Task 4.csproj|e:\\project\\pr_2\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A34E5-22F3-4F0F-BF52-4017F7DE94EA}|PR_2\\Task 4\\Task 4.csproj|solutionrelative:pr_2\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Project\\PR_2\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "PR_2\\ConsoleApp1\\Program.cs",
-              "ToolTip": "E:\\Project\\PR_2\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "PR_2\\ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowAYAAABZAAAA",
+              "DocumentMoniker": "E:\\Project\\PR_2\\Task 4\\Program.cs",
+              "RelativeDocumentMoniker": "PR_2\\Task 4\\Program.cs",
+              "ToolTip": "E:\\Project\\PR_2\\Task 4\\Program.cs",
+              "RelativeToolTip": "PR_2\\Task 4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:11:31.061Z",
+              "WhenOpened": "2024-03-12T11:29:03.385Z",
               "EditorCaption": ""
             },
             {
@@ -49,9 +49,9 @@
               "RelativeDocumentMoniker": "PR_2\\Task_3\\Program.cs",
               "ToolTip": "E:\\Project\\PR_2\\Task_3\\Program.cs",
               "RelativeToolTip": "PR_2\\Task_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABeAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:18:44.778Z",
+              "WhenOpened": "2024-03-12T11:28:07.749Z",
               "EditorCaption": ""
             },
             {
@@ -62,9 +62,9 @@
               "RelativeDocumentMoniker": "PR_2\\Task_2\\Program.cs",
               "ToolTip": "E:\\Project\\PR_2\\Task_2\\Program.cs",
               "RelativeToolTip": "PR_2\\Task_2\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEAAAAAkAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:50:56.48Z",
+              "WhenOpened": "2024-03-12T11:27:59.423Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +75,9 @@
               "RelativeDocumentMoniker": "PR_2\\Task_1\\Program.cs",
               "ToolTip": "E:\\Project\\PR_2\\Task_1\\Program.cs",
               "RelativeToolTip": "PR_2\\Task_1\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAABEAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:27:49.55Z",
+              "WhenOpened": "2024-03-12T11:27:41.28Z",
               "EditorCaption": ""
             }
           ]
